@@ -12,5 +12,5 @@ chmod a+x ~/bin/highlight
 
 ## Usage
 ```
-cat text.txt | highlight TXEXT
+cat text.txt | highlight TXEXT | less -r
 ```
